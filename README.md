@@ -32,6 +32,7 @@ If you use these files in academic work, please cite:
 **M. Gomes, A. C. Lehum, and A. J. da Silva**,  
 *On the physical running of the electric charge in a dimensionless theory of gravity*,  
 arXiv:2512.11742 [hep-th].
+DOI: https://doi.org/10.1103/gc68-584n
 
 ## License
 
